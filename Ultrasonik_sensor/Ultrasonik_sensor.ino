@@ -7,6 +7,10 @@ long mesafe;
 long sure;
 long deger = 0;
 
+/*
+@author: MUSTAFA YALINIZ
+*/
+
 void setup() {
   Serial.begin(9600);
   servoMotor.attach(9);
