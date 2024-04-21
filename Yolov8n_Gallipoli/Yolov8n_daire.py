@@ -32,10 +32,10 @@ while True:
 
     cv2.imshow('img', img)
 
-    # Çıkış için "q" tuşuna bas
+    
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
-# Belleği ve kamerayı serbest bırak
+
 cap.release()
 cv2.destroyAllWindows()
