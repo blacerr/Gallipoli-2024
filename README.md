@@ -35,7 +35,7 @@ Projeye katkıda bulunmak isterseniz, lütfen bir `fork` oluşturun, değişikli
 
 ## Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylı bilgi için `LICENSE` dosyasına bakınız.
+Bu proje MIT Lisansı ile lisanslanmıştır. Detaylı bilgi için [LICENSE](https://github.com/blacerr/Gallipoli-2024/blob/main/LICENSE) dosyasına bakınız.
 
 ## İletişim
 
