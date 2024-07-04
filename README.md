@@ -31,7 +31,7 @@ Proje lisans bilgileri. Bu dosya, projenin hangi lisans altında yayımlandığ�
 
 ## Katkıda Bulunma
 
-Projeye katkıda bulunmak isterseniz, lütfen bir `fork` oluşturun, değişikliklerinizi yapın ve ardından bir `pull request` gönderin. Her türlü katkı ve geri bildirim değerlidir. Detaylar için `CONTRIBUTING.md` dosyasına bakabilirsiniz.
+Projeye katkıda bulunmak isterseniz, lütfen bir `fork` oluşturun, değişikliklerinizi yapın ve ardından bir `pull request` gönderin. Her türlü katkı ve geri bildirim değerlidir. Detaylar için [CONTRIBUTING.md](https://github.com/blacerr/Gallipoli-2024/blob/main/CONTRIBUTING.md) dosyasına bakabilirsiniz.
 
 ## Lisans
 
